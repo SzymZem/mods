@@ -1,0 +1,17 @@
+filename = 'longhotbar-2.1.0+1.21.11.jar'
+name = 'Hysk-LongHotbar'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '2.1.0+1.21.11'
+
+[download]
+hash = '2b6f760fc4329bc2e35e07ccf636c7d706b02fc814aaa748ac2a76218644b365a8b490b30e419b2e172bb87abd9b6fe93f671aed710688e8613e4fe5741f0d70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JtgORGSF/versions/OMCEkJZV/longhotbar-2.1.0%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'JtgORGSF'
+version = 'OMCEkJZV'

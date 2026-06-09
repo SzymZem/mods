@@ -1,0 +1,38 @@
+filename = 'hotbarrefill-1.2.jar'
+name = 'Hotbar Refill'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.10',
+    '1.21.10',
+    '1.21.11',
+    '1.21.11',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2'
+
+[download]
+hash = 'e40e80868654dad11a935c84f7f9732d1ca3777a0718e2f043b2f2c38daa0e6a4b41dac71a6c7da898fdee2c03cb353b3a8bbbac78814e0ad23fac58b20fd961'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pPs2SN1J/versions/xFVgmsR1/hotbarrefill-1.2.jar'
+
+[update.modrinth]
+mod-id = 'pPs2SN1J'
+version = 'xFVgmsR1'
