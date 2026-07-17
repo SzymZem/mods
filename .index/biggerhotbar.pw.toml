@@ -1,0 +1,21 @@
+filename = 'biggerhotbar-1.12.jar'
+name = 'BiggerHotbar'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.12'
+
+[download]
+hash = '4cd524b789c80a445ec2a229bfd3f0f7147714a65e14cc57b59b9b02b629565626bc0eed5fdc622db7721b335ba3fb9646225ef0176ce8190ddbe8def21d1838'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WnHro2MY/versions/fDnBnpze/biggerhotbar-1.12.jar'
+
+[update.modrinth]
+mod-id = 'WnHro2MY'
+version = 'fDnBnpze'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
