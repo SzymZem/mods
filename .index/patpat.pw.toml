@@ -1,0 +1,33 @@
+filename = 'PatPat-1.3.0+26.2+fabric.jar'
+name = 'PatPat [Mod & Plugin]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0+26.2+fabric'
+
+[download]
+hash = '43c1dc1e7c64347cc4e242115ddf3fe3378b2de259a4aad2d3e8e128988083de935f5c04a229270fbb21b08aa340af8b93f773a2aec6216e995eca54fd755984'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dw7LChq9/versions/NDjYrNet/PatPat-1.3.0%2B26.2%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'dw7LChq9'
+version = 'NDjYrNet'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
