@@ -1,0 +1,21 @@
+filename = 'gdb-1.1.0+1.21.9+A.jar'
+name = 'Golden Dandelion Backport'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.9', '1.21.10', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0+1.21.9+A'
+
+[download]
+hash = '1787d2cb098989a1965208d21b624444e323810f5e914881b715a5108a186c066edd2a8b5eb013fce39e8967c1245b8b678bcfef8d84a7db3103d4c22889e524'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WBG3OROn/versions/LxW7406E/gdb-1.1.0%2B1.21.9%2BA.jar'
+
+[update.modrinth]
+mod-id = 'WBG3OROn'
+version = 'LxW7406E'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
