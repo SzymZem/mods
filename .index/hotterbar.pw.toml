@@ -1,0 +1,18 @@
+filename = 'hotterbar-fabric-26.2-0.1.0.jar'
+name = 'HotterBar'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.0'
+
+[download]
+hash = '1fc60aecf4681d08559738cb7fbb2c8c2010f5878c2b24a97cacf89fed7a3e8d0f101965fa56ac4530ef7d61edc68d74c7bda4ac17d844da5594b75636649886'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JN3gcIK8/versions/E057ak7D/hotterbar-fabric-26.2-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'JN3gcIK8'
+version = 'E057ak7D'
