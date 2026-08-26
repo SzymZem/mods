@@ -1,0 +1,25 @@
+filename = 'SHOW_MY_MAPS-1.1.2+26.2.jar'
+name = 'Show My Maps'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.1.2+26.2'
+
+[download]
+hash = '8aa7c108b3f0a7bde2d8b38ea19373efb47e8f839c4f70fb76f0276506e60522a01044c04ff67ec41fd01204021ea5f271d0bba79256743f8b40b2362a0448b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ANHah0JE/versions/kOSACZaI/SHOW_MY_MAPS-1.1.2%2B26.2.jar'
+
+[update.modrinth]
+mod-id = 'ANHah0JE'
+version = 'kOSACZaI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
